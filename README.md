@@ -21,9 +21,11 @@ once inteded for postprocessing of results and saving them into TXT files.
 Last file advancedSimAnneal.py implements a function for multiple runs of
 simulated annealing (SA implementation is however part of D-Wave libraries). 
 
-All functions and procedures in above mentioned files are commented.
+All functions and procedures in above mentioned files are commented for easy 
+understanding of purpose of particular functions and procedures.
 
 For using the code, it is necessary to have an account at D-Wave.
 
-All the codes were developed in the D-Wave Leap (TM) environment.
+To run the optimization, all files have to be saved in one directory.
 
+All the codes were developed in the D-Wave Leap (TM) environment.
